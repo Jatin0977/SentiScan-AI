@@ -160,7 +160,7 @@ Dataset
 ---
 
 ## Single Review
-![alt text](assets/single_review.png)
+![alt text](assets/singlereview.png)
 
 ---
 
